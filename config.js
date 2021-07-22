@@ -2,12 +2,12 @@
  * @file Configuration file for ebay monitoring.
  * @author Toxi10
  * 
- * @param {String} PRODUCT Name of the product you are looking for.
- * @param {String} URL Discord webhook URL.
- * @param {String} USERNAME Username for the webhook.
- * @param {String} AVATAR_URL Image URL for the webhook.
- * @param {String} COLOR Color code for the embed (decimal).
- * @param {String} TITLE Title for the embed.
+ * @param {String} PRODUCT - Name of the product you are looking for.
+ * @param {String} URL - Discord webhook URL.
+ * @param {String} USERNAME - Username for the webhook.
+ * @param {String} AVATAR_URL - Image URL for the webhook.
+ * @param {String} COLOR - Color code for the embed (decimal).
+ * @param {String} TITLE - Title for the embed.
  * 
  * @version 0.0.1
  */
